@@ -1,2 +1,2 @@
-# hackathon-trial-
+# hackathon-trial
 run 1
